@@ -1,3 +1,8 @@
+/* Created by: Fares.Abdelkader
+* Created on: Mar 2023
+* This file contains the CSS for index.html
+*/
+
 .mdl-layout__header-row {
   justify-content: center;
   padding: 0;
@@ -14,7 +19,7 @@
 }
 
 .page-content {
-  color: rgb(116, 15, 15);
+  color: white;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.25rem;
 }
@@ -35,5 +40,5 @@ img {
 }
 
 body {
-  background-color: rgb(237, 100, 100);
+  background-color: rgba(18, 18, 18, 0);
 }
